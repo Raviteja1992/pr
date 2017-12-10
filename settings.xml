@@ -4,11 +4,6 @@
         <id>snapshot</id>
         <username>admin</username>
         <password>admin123</password>
-      </server>
-    <server>
-        <id>samS</id>
-        <username>admin</username>
-        <password>admin123</password>
-      </server>
+    </server>
   </servers>
 </settings>
