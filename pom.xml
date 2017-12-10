@@ -24,12 +24,9 @@
   
   <distributionManagement>
     <repository>
-      <id>release</id>
-      <url>http://localhost:8081/nexus/content/repositories/release/</url>
-    </repository>
-    <repository>
       <id>snapshot</id>
       <url>http://localhost:8081/nexus/content/repositories/snapshot/</url>
     </repository>
   </distributionManagement>
+  
 </project>
