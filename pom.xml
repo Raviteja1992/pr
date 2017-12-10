@@ -14,7 +14,7 @@
       <url>http://localhost:8081/nexus/content/repositories/samS</url>
     </repository>
 
-      <repository>
+    <repository>
       <id>samR</id>
       <url>http://localhost:8081/nexus/content/repositories/samR</url>
     </repository>
