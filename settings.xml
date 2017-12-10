@@ -1,7 +1,7 @@
 <settings>
   <servers>
     <server>
-        <id>samR</id>
+        <id>snapshot</id>
         <username>admin</username>
         <password>admin123</password>
       </server>
