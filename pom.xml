@@ -8,17 +8,7 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
 
-  <distributionManagement>
-    <repository>
-      <id>samS</id>
-      <url>http://localhost:8081/nexus/content/repositories/samS</url>
-    </repository>
 
-      <repository>
-      <id>samR</id>
-      <url>http://localhost:8081/nexus/content/repositories/samR</url>
-    </repository>
-  </distributionManagement>
 
   <dependencies>
     <dependency>
@@ -29,4 +19,17 @@
     </dependency>
   </dependencies>
 
+  
+  
+  
+    <distributionManagement>
+    <repository>
+      <id>samS</id>
+      <url>http://localhost:8081/nexus/content/repositories/samS</url>
+    </repository>
+    <repository>
+      <id>samR</id>
+      <url>http://localhost:8081/nexus/content/repositories/samR</url>
+    </repository>
+  </distributionManagement>
 </project>
