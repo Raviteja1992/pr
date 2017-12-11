@@ -1,7 +1,7 @@
 
   <servers>
     <server>
-        <id>snapshot</id>
+        <id>1234</id>
         <username>admin</username>
         <password>123456</password>
     </server>
