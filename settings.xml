@@ -1,4 +1,4 @@
-<settings>
+
   <servers>
     <server>
         <id>snapshot</id>
@@ -6,4 +6,4 @@
         <password>123456</password>
     </server>
   </servers>
-</settings>
+
